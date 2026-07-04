@@ -1,0 +1,14 @@
+# 前端
+node_modules/
+dist/
+
+# 后端
+target/
+*.class
+
+# IDE / 系统
+.idea/
+.vscode/
+.DS_Store
+
+# 数据库连接密码等敏感配置（如果 sql 文件里有真实数据可以酌情处理）
